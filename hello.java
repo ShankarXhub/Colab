@@ -1,12 +1,4 @@
-public class hello {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        System.out.println("Hello, !");
-        System.out.println("third commmit");
-        System.out.println("fourth commmit");
-        System.out.println("fifth commmit");
-         System.out.println("sixth commmit");
-         System.out.println(" 8 commmit");
+268
 
     }
 }
